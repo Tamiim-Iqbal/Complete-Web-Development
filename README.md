@@ -1,7 +1,7 @@
-<h2 align="center"> Learn Web Development </h2>
+<h1 align="center"> Learn Web Development </h1>
 
 
-### Milestone - 1
+## :Direct_hit: Milestone - 1
 
 <h6>1. Learn & Explore HTML </h6>
 
@@ -9,4 +9,3 @@
 - headings
 - list
  
-
