@@ -1,4 +1,4 @@
-<h3 align="center"> Learn Web Development </h3>
+<h2 align="center"> Learn Web Development </h2>
 
 
 ### Milestone - 1
