@@ -1,0 +1,34 @@
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+    height: 350px;
+    width: 800px;
+    /* background-image: url('bridge.avif'); */
+    background-image: url(./images/developer.avif);
+    background-repeat: no-repeat;
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: contain; */
+    /* background-size: cover; */
+}
+h3{
+    color: blueviolet;
+    
+}
+.second{
+    display: none;
+    /* visibility: hidden; */
+}
+.blog{
+    margin: 30px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px gray;
+}
+#dolor{
+    border: 2px solid violet;
+    padding: 1px;
+    display: inline-block;
+}

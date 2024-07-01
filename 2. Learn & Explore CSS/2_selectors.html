@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mixed Selectors</title>
+    <style>
+        *{
+            margin: 10px;
+        }
+        p{
+            color: red;
+        }
+        #fifth, #sixth
+        {
+            font-size: 20px;
+        }
+        .bg
+        {
+            background-color: burlywood;
+        }
+        .bold
+        {
+            font-weight: bold;
+        }
+        input{
+            font-size: large;
+        }
+        input[type="password"]{
+            color: brown;
+        }
+        .clr{
+            color: blueviolet;
+        }
+        .bgc{
+            background-color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <div class="bgc">
+        <h3>Explore Mixed Selectors</h3>
+        <p class="bg">My first line</p>
+        <p>My <span class="clr">second line</span></p>
+        <p>My third line</p>
+        <p class="bg bold">My fourth line</p>
+        <p id="fifth">My fifth line</p>
+        <p id="sixth">My sixth line</p>
+        <form action="">
+        <input type="text" name="" id="">
+        <input type="password" name="" id="">
+    </form>
+    </div>
+    
+</body>
+</html>
