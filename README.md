@@ -8,3 +8,5 @@
 <h6>2. Learn & Explore CSS - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/2-Learn-Explore-CSS-937764b1d0e749efa15588f143075233?pvs=4" target="_blank">CSS Notes</a> </h6>
 
 <h6>3. Git, Source Control, Github & Hosting - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/3-Git-Source-Control-Github-Hosting-4e404c2cc9c646a5b74557f303362a9f?pvs=4" target="_blank">Github Notes</a> </h6>
+
+<h6>4. More About HTML - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/4-More-About-HTML-ea21b7f5eff044438dc673797dc9dfca?pvs=4" target="_blank">More HTML Notes</a> </h6>
