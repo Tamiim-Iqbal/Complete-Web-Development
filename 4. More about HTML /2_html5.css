@@ -1,0 +1,19 @@
+*{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+nav > ul > li{
+    display: inline;
+    margin-right: 15px;
+}
+a{
+    text-decoration: none;
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
+article > footer > a{
+    color: gray;
+}

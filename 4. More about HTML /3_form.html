@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>form</title>
+    <style>
+        label{
+            display: block;
+            margin-bottom: 10px;
+        }
+        input{
+            margin-left: 15px;
+            margin-right: 10px;
+        }
+        fieldset{
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+
+    </header>
+
+    <main>
+        <section>
+            <h2>Please fill up the form</h2>
+                <form>
+            
+                <label for="name">Your Name: 
+                    <input type="text" id="name" placeholder="Enter your name" >
+                </label>
+                <label for="email">Your Email: 
+                    <input type="email" id="email" placeholder="Enter your email">
+                </label>
+                <label for="phone">Your Phone: 
+                    <input type="text" id="phone" placeholder="Enter your phone">
+                </label>
+
+                <fieldset>
+                    <legend>Pick one drink</legend>
+                    <label for="tea">
+                        <input type="radio" name="drink" id="tea">Tea
+                    </label>
+                    <label for="coffee">
+                        <input type="radio" name="drink" id="coffee">Coffee
+                    </label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>Pick one or more Food</legend>
+                    <label for="burger">
+                        <input type="checkbox" name="food" id="burger"> Burger
+                    </label>
+                    <label for="pasta">
+                        <input type="checkbox" name="food" id="pasta"> Pasta
+                    </label>
+                    <label for="chicken">
+                        <input type="checkbox" name="food" id="chicken"> Chicken
+                    </label>
+                </fieldset>
+
+                <fieldset>
+                    <legend>We provide</legend>
+                    <textarea name="" id="" cols="30" rows="1">Everything Fresh!</textarea>
+                </fieldset>
+
+                <input type="reset" value="Reset">
+                <input type="submit" value="Submit">
+                </form>
+        </section>
+    </main>
+
+    <footer>
+
+    </footer>
+</body>
+</html>
