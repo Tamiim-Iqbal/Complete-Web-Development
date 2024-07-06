@@ -10,3 +10,6 @@
 <h6>3. Git, Source Control, Github & Hosting - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/3-Git-Source-Control-Github-Hosting-4e404c2cc9c646a5b74557f303362a9f?pvs=4" target="_blank">Github Notes</a> </h6>
 
 <h6>4. More About HTML - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/4-More-About-HTML-ea21b7f5eff044438dc673797dc9dfca?pvs=4" target="_blank">More HTML Notes</a> </h6>
+
+
+<h6>5. Think & Make Essential UI Components - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/5-Think-Make-Essential-UI-Components-8eb2b416d8a7442e9779cc4a003b005b?pvs=4" target="_blank">UI Notes</a> </h6>
