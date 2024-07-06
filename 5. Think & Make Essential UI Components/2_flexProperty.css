@@ -1,0 +1,57 @@
+h2{
+    text-align: center;
+}
+.child{
+    border: 2px solid rgb(15, 158, 160);
+    background: rgb(178, 228, 229);
+    padding: 20px;
+    font: 18;
+    margin: 10px 0;
+}
+.parent-flex{
+    padding: 25px;
+    background: blanchedalmond;
+    display: flex;
+}
+
+.gap{
+    gap: 30px;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-end{
+    justify-content: end;
+}
+.justify-space-around{
+    justify-content: space-around;
+}
+.justify-space-between{
+    justify-content: space-between;
+}
+.justify-space-evenly{
+    justify-content: space-evenly;
+}
+
+.align-stretch{
+    height: 250px;
+    align-items: stretch;
+}
+.align-start{
+    height: 250px;
+    align-items: start;
+}
+.align-center{
+    height: 250px;
+    align-items: center;
+}
+
+.direction-column{
+    height: 400px;
+    flex-direction: column;
+}
+
+.direction-row-reverse{
+    height: 250px;
+    flex-direction: row-reverse;
+}

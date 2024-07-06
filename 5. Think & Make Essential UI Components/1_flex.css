@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+}
+.parent{
+    padding: 25px;
+    background-color: blanchedalmond;
+
+}
+.child{
+    border: 2px solid rgb(15, 158, 160);
+    background: rgb(178, 228, 229);
+    padding: 20px;
+    font: 18;
+    margin: 10px 0;
+}
+.child-inline{
+    border: 2px solid rgb(15, 158, 160);
+    background: rgb(178, 228, 229);
+    padding: 20px;
+    font: 18;
+    margin: 10px 0;
+    display: inline;
+}
+.parent-flex{
+    padding: 25px;
+    background-color: blanchedalmond;
+    display: flex;
+
+}
