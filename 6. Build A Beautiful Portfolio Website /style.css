@@ -15,7 +15,6 @@ body{
 {
     color: #757575;
 }
-
 .btn-primary{
     background-color: #FD6E0A;
     font-weight: bold;
@@ -24,6 +23,18 @@ body{
     padding: 18px 35px;
     border-radius: 5px;
     border: none;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.btn-contact{
+    background-color: #FFF8F3;
+    font-weight: bold;
+    color: #FD6E0A;
+    font-size: 20px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    cursor: pointer;
 }
 .section-title{
     font-size: 35px;
@@ -35,6 +46,10 @@ body{
 }
 .secondary-bg{
     background-color: #FFF8F3;
+}
+.text-center
+{
+    text-align: center;
 }
 
 /* Header Styles*/
@@ -95,12 +110,14 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+main section{
+    margin-top: 130px;
+}
 /* About Styles*/
 .about{
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
-    margin-top: 130px;
 }
 .about-items{
     display: flex;
@@ -110,6 +127,84 @@ main{
     color: #757575;
 }
 .item-description{
+    font-size: 18px;
     font-weight: bold;
     color: #474747;
+}
+
+/* Skills Style */
+
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    padding: 30px;
+    box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+}
+.skills-pad{
+    padding: 0 150px;
+    padding-bottom: 35px;
+}
+
+/* Resume */
+.resume-container
+{
+    display: flex;
+    gap: 24px;
+    justify-content: space-between;
+}
+.resume-column{
+    width: 50%;
+}
+.resume-column-title{
+   font-size: 30px ;
+   font-weight: bold;
+   color: #474747;
+}
+.education-title, .experience-title{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+}
+.education-subtitle, .experience-subtitle{
+    font-size: 20px;
+    font-weight: 600px;
+    color: #757575;
+}
+.btn-center{
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Footer Style */
+footer{
+    margin-top: 130px;
+    padding: 130px 230px;
+    margin-bottom: 30px;
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+}
+footer a{
+    margin-right: 24px;
+}
+.footer-title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.footer-column{
+    width: 50%;
+}
+.input-style{
+    font-size: 16px;
+    width: 60%;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    border: none;
+    padding: 15px 30px;
+    margin-bottom: 24px;
+    color: #757575;
 }
