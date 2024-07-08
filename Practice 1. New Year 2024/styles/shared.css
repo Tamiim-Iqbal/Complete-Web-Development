@@ -6,6 +6,11 @@
     margin: 0;
     padding: 0;
 }
+hr{
+    max-width: 1320px;
+    color: rgba(255, 255, 255, 0.15);
+    margin: 0 auto;
+}
 .m-height{
     min-height: 600px;
 }

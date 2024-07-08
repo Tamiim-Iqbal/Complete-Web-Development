@@ -1,0 +1,30 @@
+.portfolio-section-container{
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.portfolio-subtitle{
+    font-size: 24px;
+    font-weight: 500;
+}
+.portfolio-title{
+    font-size: 48px;
+    font-weight: 900;
+}
+.portfolio-description{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(7, 2, 17, 0.6);
+    margin-bottom: 48px;
+}
+
+.portfolio-imgs{
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+    flex-wrap: wrap;
+}
+.portfolio-img{
+    height: 454px;
+    border: 2px dashed rgb(208, 206, 206);
+}

@@ -1,0 +1,67 @@
+.holiday-section-container {
+    margin: 0 auto;
+    margin-top: 100px;
+    height: 850px;
+    border-radius: 16px;
+    position: relative;
+}
+
+.holiday-text {
+    text-align: center;
+    width: 1065px;
+    margin: 0 auto;
+}
+
+.holiday-subtitle {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.holiday-title {
+    font-size: 42px;
+    font-weight: 900;
+}
+
+.holiday-description {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(7, 2, 17, 0.6);
+}
+
+.holiday-red {
+    width: 1320px;
+    height: 229px;
+    background-color: red;
+    position: absolute;
+    top: 76.7%;
+    border-radius: 0 0 16px 16px;
+    width: 100%;
+}
+
+.holiday-giftbox {
+    width: 796.46px;
+    height: 662.07px;
+    border: 2px dashed lightgray;
+    border-radius: 0 0 0 16px;
+    position: absolute;
+    top: 25.8%;
+    z-index: 1;
+}
+.holiday-box1{
+    border: 2px dashed lightgray;
+    border-right: 0;
+    height: 433px;
+    width: 433px;
+    position: relative;
+    bottom: 101.6%;
+    left: 140%;
+}
+.holiday-discount{
+    border: 2px dashed lightgray;
+    height: 305.69px;
+    width: 310px;
+    text-align: center;
+    position: relative;
+    bottom: 157%;
+    left: 120%;
+}
