@@ -15,3 +15,5 @@
 <h6>5. Think & Make Essential UI Components - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/5-Think-Make-Essential-UI-Components-8eb2b416d8a7442e9779cc4a003b005b?pvs=4" target="_blank">UI Notes</a> </h6>
 
 <h6>6. Build A Beautiful Portfolio Website - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Portfolio-Website/">Live Page</a> </h6>
+
+<h6>~ Practice 1. New Year 2024 - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/New-Year-2024/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Practice-1-436a0d045e93434dbe18050e027840d5?pvs=4">Notes</a> </h6>
