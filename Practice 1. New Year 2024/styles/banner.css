@@ -1,0 +1,30 @@
+.banner-container{
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, rgb(7, 2, 17), rgba(7, 2, 17, 0) 95%), 
+            url("../new-year-offer-resources/images/Banner Image.png") center / cover no-repeat;
+    /* background-color:rgba(0, 0, 0, 0.4); */
+    /* background-blend-mode: overlay; */
+    /* background-image: url(../new-year-offer-resources/images/Banner\ Image.png);
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(0, 0, 0, 0) 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  */
+    
+
+}
+.banner-content{
+    padding: 177px 344px;
+}
+.banner-subtitle{
+    color: white;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 16px;
+}
+.banner-title{
+    color: white;
+    font-size: 72px;
+    font-weight: 900;
+}

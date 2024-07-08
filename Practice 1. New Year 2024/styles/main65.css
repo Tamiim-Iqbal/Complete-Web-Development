@@ -1,0 +1,31 @@
+.main65-section-container{
+    width: 803px;
+    height: 800px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
+}.section-element{
+    max-height: 300px;
+}
+.main65-img{
+    text-align: center;
+    border: 2px dashed rgb(233, 231, 231);
+}
+.main65-title{
+    font-weight: 700;
+    font-size: 88px;
+    color: #FF0000;
+    margin-bottom: 30px;
+}
+.main65-description{
+    font-size: 24px;
+    font-weight: 500px;
+    color: #FF0000;
+    margin-bottom: 16px;
+}
+.main65-catagories{
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+    margin-bottom: 30px;
+}

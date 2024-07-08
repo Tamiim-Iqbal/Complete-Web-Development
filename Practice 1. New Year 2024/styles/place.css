@@ -1,0 +1,26 @@
+.place-section-container{
+    max-height: 480px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 16px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.2),rgba(255, 0, 0, 0) 100%);
+}
+.place-content{
+    padding: 100px 380px;
+    text-align: center;
+}
+.place-text{
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 48px;
+}
+.join{
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    padding: 16px 32px;
+    background-color: #FF0000;
+    color: white;
+    border: none;
+}
