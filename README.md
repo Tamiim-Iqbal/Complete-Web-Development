@@ -17,3 +17,5 @@
 <h6>6. Build A Beautiful Portfolio Website - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Portfolio-Website/">Live Page</a> </h6>
 
 <h6>~ Practice 1. New Year 2024 - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/New-Year-2024/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Practice-1-436a0d045e93434dbe18050e027840d5?pvs=4">Notes</a> </h6>
+
+<h6>7. Assignment - 1. Web Developer - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Web-Developer/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/7-Assignment-1-69b168c9650f47f586cb1d370aaae8f8?pvs=4">Notes</a> </h6>
