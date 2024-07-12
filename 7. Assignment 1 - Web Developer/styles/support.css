@@ -1,0 +1,61 @@
+.support-section-container{
+    max-width: 70%;
+    height: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 16px;
+    background-image: url(../resources/assets/handshake.jpg); 
+    background-color:rgba(0, 0, 0, 0.4);
+    background-blend-mode: overlay;
+    background-position: center;
+    background-size: cover;
+    padding: 70px;
+}
+
+.support-text{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+.support-title{
+    font-size: 32px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+.support-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    opacity: 0.8;
+    margin-bottom: 80px;
+}
+.support-input
+{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.support-input-text{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 19px 20px 19px 20px;
+    width: 50%;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(13, 19, 33, 0.4);
+}
+.support-input-submit{
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 17px 20px 17px 20px;
+    font-size: 19px;
+    font-weight: 600;
+    width: 15%;
+    color: rgb(13, 19, 33);
+    cursor: pointer;
+    
+}

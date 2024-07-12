@@ -1,0 +1,16 @@
+.footer-section-container{
+    background: rgba(13, 19, 33, 0.02);
+    margin-top: 70px;
+    padding: 22px 120px 22px 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 0 0 16px 16px;
+}
+.footer-title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.social{
+    margin-right: 10px;
+}

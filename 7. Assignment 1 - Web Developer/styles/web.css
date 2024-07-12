@@ -1,0 +1,83 @@
+.web-section-container{
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 74px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    padding-bottom: 60px;
+}
+.web-container{
+    width: 80%;
+    margin:0 auto;
+}
+/* Part 1 */
+.web-text{
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+.web-title{
+    font-size: 32px;
+    font-weight: 800px;
+    text-align: center;
+}
+.web-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(13, 19, 33);
+    opacity: 0.7;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+/* Part 2 */
+.web-box1, .web-box3{
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    padding: 30px 48px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.web-box2{
+    border-radius: 16px;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
+    padding: 30px 48px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.web-box1-text, .web-box2-text, .web-box3-text{
+    flex: 1;
+}
+.web-box1-img, .web-box3-img{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+.web-box2-img{
+    flex: 1;
+}
+.web-box-title{
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+.web-box-description{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 32px;
+}
+.web-box-btn{
+    padding: 12px 20px 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    background-color: white;
+}

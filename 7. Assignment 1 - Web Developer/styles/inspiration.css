@@ -1,0 +1,32 @@
+.inspiration-section-container{
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 74px;
+}
+
+.inspiration-text{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.inspiration-title{
+    font-size: 32px;
+    font-weight: 800;
+}
+.inspiration-description{
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 40px;
+}
+.inspiration-video{
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 30px;
+}
+.iframe{
+    border-radius: 16px;
+}
