@@ -25,3 +25,5 @@
 ## 🎯 Milestone 2 : Responsive Web Layout
 
 <h6>8. Responsive Website Layout - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/8-Responsive-Website-Layout-7e615529cd9a4cb386775812a6b42b03?pvs=4" target="_blank">Responsive Notes</a> </h6>
+
+<h6>9. More Responsive Layout & Responsive Portfolio  - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/9-More-Responsive-Layout-Responsive-Portfolio-4405695d9ad7439eb271bb5677a65c39?pvs=4" target="_blank">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Web-Developer">Repository Link</a> 
