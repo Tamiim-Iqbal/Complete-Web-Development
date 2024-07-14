@@ -16,8 +16,12 @@
 
 <h6>6. Build A Beautiful Portfolio Website - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Portfolio-Website/">Live Page</a> </h6>
 
-<h6>~ Practice 1. New Year 2024 - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/New-Year-2024/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Practice-1-436a0d045e93434dbe18050e027840d5?pvs=4">Notes</a> </h6>
+<h6>6_ Practice 1. New Year 2024 - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/New-Year-2024/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Practice-1-436a0d045e93434dbe18050e027840d5?pvs=4">Notes</a> </h6>
 
 <h6>7. Assignment - 1. Web Developer - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Web-Developer/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/7-Assignment-1-69b168c9650f47f586cb1d370aaae8f8?pvs=4">Notes</a> </h6>
 
+<h6>7.5_ Pseudo Class, Elements, Position - <a style="text-decoration:none" href="" target="_blank">Notes</a> </h6>
+
 ## 🎯 Milestone 2 : Responsive Web Layout
+
+<h6>8. Responsive Website Layout - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/8-Responsive-Website-Layout-7e615529cd9a4cb386775812a6b42b03?pvs=4" target="_blank">Responsive Notes</a> </h6>
