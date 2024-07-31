@@ -27,3 +27,5 @@
 <h6>8. Responsive Website Layout - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/8-Responsive-Website-Layout-7e615529cd9a4cb386775812a6b42b03?pvs=4" target="_blank">Responsive Notes</a> </h6>
 
 <h6>9. More Responsive Layout & Responsive Portfolio  - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/9-More-Responsive-Layout-Responsive-Portfolio-4405695d9ad7439eb271bb5677a65c39?pvs=4" target="_blank">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Web-Developer">Repository Link</a> 
+
+<h6>10. HTML CSS Landing Page - G3 Architects - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/G3-Architects/" target="_blank">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/10-HTML-CSS-Landing-Page-G3-Architects-e514b788e3d94187b70c6a218a8594ba?pvs=4">Notes</a>  - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/G3-Architects">Repository Link</a> 
