@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Work Sans", sans-serif;
+}
+
+/* Width */
+.max-width{
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/* Primary background */
+.pri-bg{
+  background-color: rgba(255, 144, 14, 0.1);
+}
+
+/* Primary Button */
+.btn-pri{
+  background-color: #FF900E;
+}
+.btn-explore{
+  border: none;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 1.2rem 1.5rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  margin-bottom: 3.5rem;
+}
+
+/* Text Color */
+/* Dark 2 */
+.text-gray{
+  color: #424242;
+}
+/* Dark 3 */
+.text-light-gray{
+  color: #727272;
+}
+

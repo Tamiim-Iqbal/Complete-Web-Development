@@ -1,0 +1,88 @@
+.love-container{
+    margin-top: 120px;
+    display: flex;
+    gap: 100px;
+}
+.love-texts{
+    margin-right: 50px;
+}
+#love-border{
+    border-left: 5px solid #FF900E;
+    padding-left: 20px;
+}
+.love-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    margin-top: 0;
+}
+.love-description{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #727272;
+    margin-bottom: 2rem;
+}
+.love-card{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 27px;
+}
+.card-title{
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 3px;
+}
+.card-description{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #727272;
+}
+.img-box{
+    border: 2px dashed lightgray;
+    margin-left: 50px;
+    max-height: 982px;
+}
+.btn-experience{
+    background-color: #FF900E;
+    padding: 40px 45px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    margin-left: -70px;
+    margin-top: -130px;
+}
+#experience-year{
+    font-weight: 700;
+    font-size: 3rem;
+}
+#experience-experience{
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+/* Responsive */
+@media screen and (max-width: 576px){
+    .love-container{
+        flex-direction: column;
+    }
+    .btn-experience{
+        display: none;
+    }
+    .love-texts{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .love-img-container{
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .img-box{
+        margin-left: 0;
+        height: 726px;
+    }
+    .img-box img{
+        width: 100%;
+    }
+}

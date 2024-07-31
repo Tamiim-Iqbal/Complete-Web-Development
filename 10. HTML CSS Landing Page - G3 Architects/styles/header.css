@@ -1,0 +1,56 @@
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.brand{
+    font-weight: 700px;
+    font-size: 2rem;
+}
+.nav-links{
+    display: flex;
+}
+.nav-item{
+    list-style: none;
+    margin-left: 40px;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+.banner-content{
+    max-width: 850px;
+    margin: 0 auto;
+    text-align: center;
+}
+.banner-title{
+    font-weight: 700px;
+    font-size: 3.5rem;
+}
+.banner-description{
+    font-weight: 400;
+    font-size: 1rem;
+}
+.btn-explore{
+    border: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 1.2rem 1.5rem;
+    border-radius: 8px;
+    margin-top: 1rem;
+    margin-bottom: 3.5rem;
+}
+.banner-img{
+    max-width: 100%;
+    padding-bottom: 2rem;
+}
+
+/* Responsive */
+@media screen and (max-width: 576px) {
+    .navbar, .nav-links{
+        flex-direction: column;
+    }
+}

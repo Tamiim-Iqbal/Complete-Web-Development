@@ -1,0 +1,36 @@
+.sponsor-info{
+    max-width: 530px;
+    margin: 0 auto;
+    text-align: center;
+}
+.sponsor-title{
+    font-size: 2.8rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+.sponsor-description{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #727272;
+    margin-bottom: 3rem;
+}
+.sponsor-companies{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.sponsor-companies img{
+    filter: grayscale(100%);
+}
+
+/* Responsive */
+@media screen and (max-width: 576px) {
+    .sponsor-info{
+        max-width: 330px;
+        text-align: left;
+    }
+    .sponsor-companies{
+        grid-template-columns: repeat(1, 1fr);
+        gap: 34px;
+        justify-items: center;
+    }
+}
