@@ -18,7 +18,7 @@
 
 <h6>6_ Practice 1. New Year 2024 - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/New-Year-2024/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Practice-1-436a0d045e93434dbe18050e027840d5?pvs=4">Notes</a> </h6>
 
-<h6>7. Assignment - 1. Web Developer - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Web-Developer/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/7-Assignment-1-69b168c9650f47f586cb1d370aaae8f8?pvs=4">Notes</a> </h6>
+<h6>7. Assignment - 1. Web Developer - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Web-Developer/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/7-Assignment-1-69b168c9650f47f586cb1d370aaae8f8?pvs=4">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Web-Developer">Repository Link</a></h6>
 
 <h6>7.5_ Pseudo Class, Elements, Position - <a style="text-decoration:none" href="" target="_blank">Notes</a> </h6>
 
@@ -29,3 +29,7 @@
 <h6>9. More Responsive Layout & Responsive Portfolio  - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/9-More-Responsive-Layout-Responsive-Portfolio-4405695d9ad7439eb271bb5677a65c39?pvs=4" target="_blank">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Web-Developer">Repository Link</a> 
 
 <h6>10. HTML CSS Landing Page - G3 Architects - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/G3-Architects/" target="_blank">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/10-HTML-CSS-Landing-Page-G3-Architects-e514b788e3d94187b70c6a218a8594ba?pvs=4">Notes</a>  - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/G3-Architects">Repository Link</a> 
+
+<h6>11. Optimize Image, Icon & More CSS - <a style="text-decoration:none" href="" target="_blank">Notes</a> </h6>
+
+<h6>12. Assignment - 2. Fitness - <a style="text-decoration:none" href="">Live Page</a> - <a style="text-decoration:none" href="">Notes</a> - <a style="text-decoration:none" href="">Repository Link</a></h6>
