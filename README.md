@@ -32,4 +32,5 @@
 
 <h6>11. Optimize Image, Icon & More CSS - <a style="text-decoration:none" href="" target="_blank">Notes</a> </h6>
 
-<h6>12. Assignment - 2. Fitness - <a style="text-decoration:none" href="">Live Page</a> - <a style="text-decoration:none" href="">Notes</a> - <a style="text-decoration:none" href="">Repository Link</a></h6>
+<h6>12. Assignment - 2. Fitness - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Fitness/
+">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/12-Assignment-2-Fitness-423569c1568548e19dd7b57b26381ff5?pvs=4">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Fitness">Repository Link</a></h6>
