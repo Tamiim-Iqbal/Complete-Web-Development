@@ -1,0 +1,27 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.cdnfonts.com/css/miama');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.font-inter{
+    font-family: "Inter", sans-serif;
+}
+.font-miama{
+    font-family: 'Miama', sans-serif;
+}
+
+/* Max Width */
+.max-width{
+    max-width: 100%;
+}
+.mid-width{
+    max-width: 80%;
+    margin: 0 auto;
+}
+.btn-primary{
+    padding: 16px 40px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: white;
+    border-radius: 42px;
+    border: none;
+}

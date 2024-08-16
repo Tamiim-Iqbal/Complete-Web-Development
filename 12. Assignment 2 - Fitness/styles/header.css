@@ -1,0 +1,206 @@
+.header-section-container{
+    background: linear-gradient(0.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 200%), linear-gradient(180.00deg, rgb(17, 17, 17),rgba(119, 119, 119, 0) 200%);
+    font-family: "Inter", sans-serif;
+}
+/* Nav Styles */
+.navbar{
+    max-width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.brand{
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #E6533C;
+}
+.nav-links{
+    display: flex;
+}
+.burger-icon{
+    display: none;
+}
+.home-btn{
+    padding: 12px 24px;
+    border-radius: 46px;
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 600 ;
+    background-color: #E6533C;
+}
+.nav-item{
+    list-style: none;
+    margin-left: 4rem;
+}
+.nav-link{
+    text-decoration: none;
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: white;
+    font-family: "Inter", sans-serif;
+    
+}
+
+
+/* Banner Styles */
+.banner-container{
+    display: flex;
+    margin-top: none;
+    height: 580px;
+}
+.banner-texts-container{
+    max-width: 65%;
+}
+.banner-text{
+    max-width: 70%;
+    text-align: left;
+}
+.banner-heading{
+    margin-top: 100px;
+    font-size: 4.5rem;
+    font-weight: 900;
+    color: white;
+    margin-bottom: none;
+}
+.shape{
+    font-size: 4.5rem;
+    font-weight: 600;
+}
+.banner-description{
+    margin-top: 20px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    margin-bottom: 28px;
+}
+.banner-button{
+    display: flex;
+    margin-left: -40px;
+}
+.btn-list{
+    list-style: none;
+}
+.join-club{
+    background-color: #E6533C;
+    margin-right: 14px;
+    margin-left: none;
+}
+.download-app{
+    border: 1px solid white;
+    background-color: none;
+}
+.banner-img{
+    margin-left: 1%;
+    margin-top: none;
+}
+.banner-icon{
+    margin-top: 40px;
+    margin-left: -90px;
+}
+.videos1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 20px 23px;
+    max-width: 37%;
+    border-radius: 12px;
+    background: rgba(48, 48, 48, 0.54);
+    backdrop-filter: blur(5px);
+    margin-left: -110px;
+    margin-top: -160px;
+}
+.circle{
+    height: 40px;
+    width: 40px;
+    background-color: #E6533C;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.play-icon{
+    display: none;
+}
+.videos1-text1{
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: rgb(250, 250, 249);
+}
+.videos1-text2{
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(239, 237, 232, 0.65);
+}
+
+.videos2{
+    padding: 17px 24px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    background: rgba(48, 48, 48, 0.54);
+    backdrop-filter: blur(5px);
+    max-width: 45%;
+    margin-top: -380px;
+    margin-left: 225px;
+}
+.videos2-text1{
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: white;
+}
+.videos2-text2{
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.65);
+}
+
+/* Small Device */
+@media  screen and (max-width: 576px) {
+    .nav-links{
+        display: none;
+    }
+    .burger-icon{
+        display: block;
+    }
+    .banner-container{
+        flex-direction: column;
+        height: 970px;
+    }
+    .banner-heading{
+        margin-top: 35px;
+        font-size: 2.5rem;
+        font-weight: 900;
+    }
+    .banner-texts-container{
+        max-width: 90%;
+    }
+    .banner-text{
+        max-width: 100%;
+    }
+    .btn-primary{
+        padding: 12px 30px;
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    .videos1{
+        margin-left: 0px;
+        margin-top: -300px;
+    }
+    .play-icon{
+        display: block;
+        margin-top: 11px;
+        margin-left: 13px;
+    }
+    .videos1-text2{
+        font-size: 0.9rem;
+    }
+    .videos2{
+        margin-left: 210px;
+        margin-top: -300px;
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(10px);
+    }
+    .videos2-text1{
+        font-size: 2rem;
+    }
+
+}

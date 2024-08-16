@@ -1,0 +1,142 @@
+.bmi-text{
+    padding-top: 80px;
+    font-family: "Inter", sans-serif;
+    background: rgb(17, 17, 17);
+    padding-left: 25%;
+}
+.bmi-title{
+    margin-top: 0;
+    font-size: 3rem;
+    font-weight: 900;
+    color: white;
+    margin-bottom: 15px;
+}
+.bmi-description{
+    margin-bottom: 0;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    text-align: left;
+    width: 45%;
+    padding-bottom: 80px;
+}
+
+.bmi-charts{
+    font-family: "Inter", sans-serif;
+    background: rgb(34, 34, 34);
+}
+.bmi-chart{
+    display: flex;
+}
+.chart-1{
+    width: 50%;
+}
+.chart1-title{
+    margin-top: 0;
+    padding-top: 50px;
+    font-size: 1.7rem;
+    font-weight: 900;
+    color: white;
+}
+.bmi-table{
+    border-collapse: collapse;
+    margin-top: 60px;
+}
+td, th{
+    border: 1px rgba(255, 255, 255, 0.1) solid;
+    padding: 10px 30px;
+}
+.th-text{
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+    text-align: left;
+}
+.td-text{
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5)
+}
+.chart2-title{
+    margin-top: 0;
+    padding-top: 50px;
+    font-size: 1.7rem;
+    font-weight: 900;
+    color: white;
+    margin-bottom: 14px;
+}
+.chart2-description{
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    width: 80%;
+    margin-bottom: 34px;
+}
+
+.mid-input{
+    padding: 12px 80px 12px 20px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(244, 237, 237, 0.879);
+    background: rgba(255, 255, 255, 0.1);
+}
+.large-input{
+    padding: 12px 57% 12px 20px;
+    border-radius: 8px;
+    border: none;
+    margin-right: 12px;
+    margin-bottom: 12px;
+    font-size: 1rem;
+    font-weight: 400;
+    color: rgba(244, 237, 237, 0.879);
+    background: rgba(255, 255, 255, 0.1);
+    margin-bottom: 34px;
+}
+.btn-calculate{
+    margin-bottom: 50px;
+    background-color: #E6533C;
+}
+
+/* Small Device */
+
+@media  screen and (max-width: 576px) {
+    .bmi-chart{
+        flex-direction: column;
+    }
+    .bmi-text{
+        padding-left: 10%;
+    }
+    .bmi-title{
+        font-size: 2rem;
+    }
+    .bmi-description{
+        width: 90%;
+        padding-bottom: 32px;
+    }
+    .chart-1{
+        width: 100%;
+    }
+    .chart1-title{
+        font-size: 1rem;
+    }
+    .bmi-table{
+        margin-top: 30px;
+    }
+    .mid-input{
+        width: 33%;
+        padding-right: 20px;
+    }
+    .large-input{
+        width: 59%;
+        padding-right: 100px;
+    }
+    td, th{
+        padding: 10px 20px;
+    }
+
+    
+}

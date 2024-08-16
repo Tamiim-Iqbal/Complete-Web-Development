@@ -1,0 +1,64 @@
+.footer-container{
+    font-family: "Inter", sans-serif;
+    background: rgb(34, 34, 34);
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-brand{
+    width: 30%;
+}
+.footer-brand-title{
+    font-size: 4rem;
+    font-weight: 800;
+    margin-top: 0;
+    padding-top: 80px;
+    color: rgb(230, 83, 60);
+    margin-bottom: 20px;
+}
+.footer-brand-description{
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+}
+.get-title{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 30px;
+    color: white;
+}
+.get-item{
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top: 0;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.hr-line{
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.1);
+}
+.copyright-text{
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.5);
+    margin-top: 40px;
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+/* Small Device */
+
+@media  screen and (max-width: 576px) {
+    .footer-content{
+        flex-direction: column;
+    }
+    .footer-brand{
+        width: 90%;
+    }
+    .copyright-text{
+        font-size: 0.9rem;
+    }
+}
