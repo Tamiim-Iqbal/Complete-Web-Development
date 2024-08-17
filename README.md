@@ -36,3 +36,5 @@
 ">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/12-Assignment-2-Fitness-423569c1568548e19dd7b57b26381ff5?pvs=4">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Fitness">Repository Link</a></h6>
 
 ## 🎯 Milestone 3 : CSS Frameworks
+
+<h6>13. Introduction to Tailwind - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/13-Introduction-to-Tailwind-474c2f1db5db49dbbc8d50dd9af05c9c?pvs=4" target="_blank">Notes</a> </h6>
