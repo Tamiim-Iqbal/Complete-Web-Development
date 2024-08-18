@@ -38,3 +38,6 @@
 ## 🎯 Milestone 3 : CSS Frameworks
 
 <h6>13. Introduction to Tailwind - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/13-Introduction-to-Tailwind-474c2f1db5db49dbbc8d50dd9af05c9c?pvs=4" target="_blank">Notes</a> </h6>
+
+<h6>13_ Penguin Fashion - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Penguin-Fashion/
+">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Penguin-Fashion">Repository Link</a></h6>
