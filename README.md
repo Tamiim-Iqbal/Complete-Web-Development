@@ -42,6 +42,6 @@
 <h6>13_ Penguin Fashion - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Penguin-Fashion/
 ">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Penguin-Fashion">Repository Link</a></h6>
 
-<h6>14. Tea House - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Tea-House/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Tea-House">Repository Link</a> </h6>
+<h6>14. Tea Landing Page with Tailwind - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Tea-House/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Tea-House">Repository Link</a> </h6>
 
-<h6>15. Biker Zone - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Biker-Zone/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Biker-Zone">Repository Link</a>
+<h6>15. Biker Zone with Daisy UI- <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Biker-Zone/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Biker-Zone">Repository Link</a>
