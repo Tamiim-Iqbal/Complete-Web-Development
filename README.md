@@ -45,3 +45,8 @@
 <h6>14. Tea Landing Page with Tailwind - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Tea-House/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Tea-House">Repository Link</a> </h6>
 
 <h6>15. Biker Zone with Daisy UI- <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Biker-Zone/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Biker-Zone">Repository Link</a>
+
+<h6>16. Assignment - 3. Rinterio - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Rinterio/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Rinterio">Repository Link</a> - [ Responsive ]</h6>
+
+## 🎯 Milestone 4 : Hello Javascript
+
