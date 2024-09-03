@@ -16,9 +16,9 @@
 
 <h6>6. Build A Beautiful Portfolio Website - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Portfolio-Website/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Portfolio-Website">Repository Link</a></h6>
 
-<h6>6_ Practice 1. New Year 2024 - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/New-Year-2024/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Practice-1-436a0d045e93434dbe18050e027840d5?pvs=4">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/New-Year-2024">Repository Link</a> </h6>
+<h6>6_ Practice 1. New Year 2024 - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/New-Year-2024/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/New-Year-2024">Repository Link</a> </h6>
 
-<h6>7. Assignment - 1. Web Developer - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Web-Developer/">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/7-Assignment-1-69b168c9650f47f586cb1d370aaae8f8?pvs=4">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Web-Developer">Repository Link</a></h6>
+<h6>7. Assignment - 1. Web Developer - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Web-Developer/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Web-Developer">Repository Link</a></h6>
 
 <h6>7.5_ Pseudo Class, Elements, Position - <a style="text-decoration:none" href="" target="_blank">Notes</a> </h6>
 
@@ -26,14 +26,14 @@
 
 <h6>8. Responsive Website Layout - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/8-Responsive-Website-Layout-7e615529cd9a4cb386775812a6b42b03?pvs=4" target="_blank">Responsive Notes</a> </h6>
 
-<h6>9. More Responsive Layout & Responsive Portfolio  - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Web-Developer/" target="_blank">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/9-More-Responsive-Layout-Responsive-Portfolio-4405695d9ad7439eb271bb5677a65c39?pvs=4" target="_blank">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Web-Developer">Repository Link</a> 
+<h6>9. More Responsive Layout & Responsive Portfolio - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/9-More-Responsive-Layout-Responsive-Portfolio-4405695d9ad7439eb271bb5677a65c39?pvs=4" target="_blank">Notes</a> 
 
-<h6>10. HTML CSS Landing Page - G3 Architects - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/G3-Architects/" target="_blank">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/10-HTML-CSS-Landing-Page-G3-Architects-e514b788e3d94187b70c6a218a8594ba?pvs=4">Notes</a>  - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/G3-Architects">Repository Link</a> 
+<h6>10. HTML CSS Landing Page - G3 Architects - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/G3-Architects/" target="_blank">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/G3-Architects">Repository Link</a> 
 
 <h6>11. Optimize Image, Icon & More CSS - <a style="text-decoration:none" href="" target="_blank">Notes</a> </h6>
 
 <h6>12. Assignment - 2. Fitness - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Fitness/
-">Live Page</a> - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/12-Assignment-2-Fitness-423569c1568548e19dd7b57b26381ff5?pvs=4">Notes</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Fitness">Repository Link</a></h6>
+">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Fitness">Repository Link</a></h6>
 
 ## 🎯 Milestone 3 : CSS Frameworks
 
@@ -46,8 +46,8 @@
 
 <h6>15. Biker Zone with Daisy UI- <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Biker-Zone/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Biker-Zone">Repository Link</a>
 
-<h6>16. Assignment - 3. Rinterio - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Rinterio/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Rinterio">Repository Link</a> - [ Responsive ]</h6>
+<h6>16. Assignment - 3. Rinterio - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Rinterio/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Rinterio">Repository Link</a></h6>
 
 ## 🎯 Milestone 4 : Hello Javascript
 
-<h6>17. Introduction to Javascript</h6>
+<h6>17-21. Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
