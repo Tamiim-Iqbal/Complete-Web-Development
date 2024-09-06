@@ -51,3 +51,5 @@
 ## 🎯 Milestone 4 : Hello Javascript
 
 <h6>17-21. Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
+
+<h6>22. Javascript Simple Coding Problems - 1 </h6>
