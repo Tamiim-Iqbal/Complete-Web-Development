@@ -56,4 +56,6 @@
 <h6>23. Javascript Simple Coding Problems - 2 </h6>
 <h6>24. Assignment - 4. Javascript - <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Assignment-4-Questions-bcdac46ef6ed4f12a08bd80787e9f10e?pvs=4">Questions</a></h6>
 
-## 🎯 Milestone 5 : Integrate Javascript
+## 🎯 Milestone 5 : Integrate Javascript (DOM)
+
+<h6>25-26. Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
