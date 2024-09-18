@@ -60,4 +60,4 @@
 
 <h6>25-26. Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
 
-<h6>27. Create Payooo Mobile Bank with DOM </h6>
+<h6>27. Create Payoo Mobile Bank with DOM </h6>
