@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en", data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payoo</title>
+    <!-- Connections -->
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- Container : Main -->
+    <main>
+        <!-- Section : Login -->
+        <div id="login-section" class="hero bg-base-100 mt-10">
+            <div class="hero-content flex-col">
+                <img class="w-1/5 mb-0" src="resources/payoo.png" alt="">
+                <h3 class="-mt-3 font-mono font-semibold text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 to-blue-500">Payoo</h3>
+              <div class="card bg-base-100 w-full max-w-sm shrink-0 shadow-2xl">
+                <form class="card-body">
+                  <div class="form-control">
+                    <label class="label">
+                    <span class="label-text font-medium">Mobile Number</span>
+                    </label>
+                    <input id="phone-number" type="text" placeholder="Enter your number" class="input input-bordered hover:border-blue-400" required />
+                  </div>
+                  <div class="form-control">
+                    <label class="label">
+                    <span class="label-text font-medium">4 Digit Pin</span>
+                    </label>
+                    <input id="pin" type="password" placeholder="Enter 4 digit pin" class="input input-bordered hover:border-blue-400" autocomplete="off" required />
+                    <label class="label">
+                    <a id="forget-pass" class="label-text-alt link link-hover text-blue-700 mt-2">Forgot password?</a>
+                    </label>
+                  </div>
+                  <div class="form-control mt-6">
+                    <button id="btn-login" class="btn btn-primary hover:border-2 hover:bg-white hover:text-blue-600 hover:border-blue-500">Login</butto>
+                  </div>
+                </form>
+              </div>
+            </div>
+        </div>
+        
+        <!-- Section : Home -->
+        <div id="home-section" class="hidden lg:w-1/5 mx-auto px-5 ">
+        <!-- segment : Available Balance -->
+          <div class=" mt-4 flex justify-center items-center">
+            <div>
+                <img style="width: 60px;" src="resources/payoo.png" alt="">
+            </div>
+            <div class="stat border-none">
+              <div id="account-balance" class="font-bold text-lg mt-2 -ml-2">$ 19400</div>
+              <div class="stat-desc mb-0 -ml-2 font-medium">Available Balance</div>
+            </div>
+            <div class="divider mt-0 mb-0"></div>
+        </div>
+        <hr>
+       
+        <!-- Segment : Welcome -->
+            <h1 class="font-bold text-lg mt-3">Welcome to Payoo! 🔥</h1>
+            <p class="text-xs text-gray-400 font-medium mt-2">Enjoy easy and convenient financial services with us. Cashout charge is low. </p>
+    
+            <div class="mt-5 flex gap-2 flex-wrap">
+                <button id="btn-addmoney" class="btn btn-active bg-white hover:bg-blue-50 hover:text-blue-500 hover:border-blue-400 text-xs px-2 py2">Add Money</button>
+                <button id="btn-cashout" class="btn btn-active bg-white hover:bg-blue-50 hover:text-blue-500 hover:border-blue-400 text-xs px-2 py2">Cashout</button>
+                <button id="btn-transaction" class="btn btn-active bg-white hover:bg-blue-50 hover:text-blue-500 hover:border-blue-400 text-xs px-2 py2">Transactions</button>
+            </div>
+            <div class="divider mt-3 mb-0"></div>
+            <!-- Segment : Add Money -->
+            <div>
+                <div id="show-addmoney" class="hidden">
+                    <h2 class="font-bold text-sm mt-4 mb-4">Add Money</h2>
+                </div>
+                <div id="show-addmoney-card" class="hidden card shadow-xl">
+                    <form class="card-body">
+                    <div class="form-control -mt-10">
+                        <label class="label">
+                        <span class="label-text font-medium">Amount</span>
+                        </label>
+                        <input id="input-amount" type="text" placeholder="Enter amount" class="input input-bordered hover:border-blue-400" required />
+                    </div>
+                    <div class="form-control">
+                        <label class="label">
+                        <span class="label-text font-medium">Pin</span>
+                        </label>
+                        <input id="pin-number" type="password" placeholder="Enter 4 digit pin" class="input input-bordered hover:border-blue-400" required />
+                    </div>
+                    <div class="form-control mt-6">
+                        <button id="btn-add-money"  class="btn bg-[#0874F2] hover:border-2 text-white rounded-full  hover:bg-white hover:text-blue-500 hover:border-blue-400">Add Money</button>
+                    </div>
+                    </form>
+                </div>
+            </div>
+    
+            <!-- Segment : Cashout -->
+            <div>
+                <div id="show-cashout" class="hidden" >
+                    <h2 class="font-bold text-sm mt-4 mb-4">Cashout</h2>
+                </div>
+                <div id="show-cashout-card" class="hidden card shadow-xl">
+                <form class="card-body">
+                    <div class="form-control -mt-10">
+                    <label class="label">
+                        <span class="label-text font-medium">Amount</span>
+                    </label>
+                    <input id="input-cashout" type="text" placeholder="Enter amount" class="input input-bordered hover:border-blue-400" required />
+                    </div>
+                    <div class="form-control">
+                    <label class="label">
+                        <span class="label-text font-medium">Pin</span>
+                    </label>
+                    <input id="pin-cashout" type="password" placeholder="Enter 4 digit pin" class="input input-bordered hover:border-blue-400" required />
+                    </div>
+                    <div class="form-control mt-6">
+                    <button id="btn-cash-out"  class="btn bg-[#0874F2] hover:border-2 text-white rounded-full  hover:bg-white hover:text-blue-500 hover:border-blue-400">Cashout</button>
+                    </div>
+                </form>
+                </div>
+            </div>
+    
+            <!-- Segment : Transactions -->
+            <div id="show-tran" class="hidden">
+                <h2 class="font-bold text-sm mt-4 mb-4">Transactions</h2>
+            </div>
+            <div id="show-transaction" class="hidden">
+                
+            </div>
+    
+            <!--Segment : Alert -->
+            <div id="alert-box" class="hidden px-5 py-2 bg-[#4caf50] rounded-xl text-white text-sm" style="position: fixed; top: 8px; left: 50%; transform: translateX(-50%); white-space: nowrap;">
+            </div> 
+        </div>
+
+    </main>
+    <script src="Javascript/utilities.js"></script>
+    <script src="Javascript/login.js"></script>
+    <script src="Javascript/home.js"></script>
+    <script src="Javascript/addMoney.js"></script>
+    <script src="Javascript/cashout.js"></script>
+    <script src="Javascript/transaction.js"></script>
+</body>
+</html>
