@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en", data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donate Bangladesh Blog</title>
+    <!-- Connections -->
+    <!-- Google Font : Lexend -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap" rel="stylesheet">
+
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/c426595272.js" crossorigin="anonymous"></script>
+
+    <!-- Tailwind & Daisy UI CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.min.css" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+          theme: {
+            extend: {
+              colors: {
+                primary : '#B4F461',
+                secondary : 'rgba(17, 17, 17, 0.7)',
+                navbg: '#F9F7F3',
+              }
+            }
+          }
+        }
+      </script>
+</head>
+<body>
+    <!-- Container : Header -->
+    <header>
+        <!-- Section : Nav -->
+        <nav class="bg-navbg">
+            <div class="w-11/12 mx-auto flex justify-between items-center p-1 md:p-3">
+                <div>
+                    <a href="index.html">
+                        <button class="btn bg-primary text-xs md:text-lg px-2 py-0 md:px-6 hover:bg-lime-50 hover:border-2 hover:border-primary font-semibold">Home</button>
+                    </a>
+                </div>
+                <div class="flex items-center gap-1 md:gap-3">
+                    <div class="border border-dashed">
+                        <img class="h-5 md:h-7" src="resources/assets/logo.png" alt="">
+                    </div>
+                    <h1 class="text-xs md:text-xl font-bold">Donate Bangladesh</h1>
+                </div>
+                <div class="flex items-center gap-1 md:gap-2">
+                    <div class="border border-dashed">
+                        <img class="h-4 md:h-6" src="resources/assets/coin.png" alt="">
+                    </div>
+                        
+                    <p class="text-xs md:text-lg font-medium text-secondary">
+                        <span id="my-balance">10000</span>
+                        <span>BDT</span>
+                    </p>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Container : Main -->
+    <main class="w-11/12 mx-auto mt-5 md:mt-20">
+        
+        <h1 class="text-base md:text-3xl font-bold mb-4 md:mb-8">Importanat FAQ <i class="fa-duotone fa-solid fa-question fa-rotate-by fa-lg" style="--fa-secondary-color: #c74f0f; --fa-rotate-angle: 25deg;"></i></h1>
+
+
+        <!-- Section : Accordion -->
+        <div class="join join-vertical w-full">
+            <div class="collapse collapse-arrow join-item border-base-300 border">
+              <input type="radio" name="my-accordion-4" checked="checked" />
+              <div class="ml-3 mt-1 collapse-title text-base md:text-xl font-semibold">What is the Document Object Model (DOM)?</div>
+              <div class="collapse-content ml-3">
+                <p class="w-11/12">The Document Object Model (DOM) is a programming interface for web documents. It represents the structure of a webpage as a tree of objects, allowing developers to interact with and manipulate the content, structure, and style of a website dynamically using languages like JavaScript.</p>
+              </div>
+            </div>
+
+            <div class="collapse collapse-arrow join-item border-base-300 border">
+              <input type="radio" name="my-accordion-4" />
+              <div class="ml-3 mt-1 collapse-title text-base md:text-xl font-medium">How do you select an element from the DOM?</div>
+              <div class="collapse-content ml-3">
+                <p> getElementById(): By ID. <br>
+                    getElementsByClassName(): By class name. <br>
+                    getElementsByTagName(): By tag name. <br>
+                    querySelector(): First matching CSS selector. <br>
+                    querySelectorAll(): All matching CSS selectors.</p>
+              </div>
+            </div>
+
+            <div class="collapse collapse-arrow join-item border-base-300 border">
+              <input type="radio" name="my-accordion-4" />
+              <div class="ml-3 mt-1 collapse-title text-base md:text-xl font-medium">What is event delegation in the context of the DOM, and why is it useful?</div>
+              <div class="collapse-content ml-3">
+                <p>Event delegation is a technique in JavaScript that involves using a single event listener on a parent element to manage events for multiple child elements. Instead of adding separate listeners to each child, you attach a listener to a common ancestor and utilize the event's propagation up the DOM tree to handle events for all child elements.</p>
+              </div>
+            </div>
+
+            <div class="collapse collapse-arrow join-item border-base-300 border">
+                <input type="radio" name="my-accordion-4" />
+                <div class="ml-3 mt-1 collapse-title text-base md:text-xl font-medium">How do you manipulate an element's attributes and styles using the DOM?</div>
+                <div class="collapse-content ml-3">
+                  <p><b>Attributes:</b> <br>
+                    Get an attribute: element.getAttribute("attributeName") <br>
+                    Set an attribute: element.setAttribute("attributeName", "value") <br>
+                    Remove an attribute: element.removeAttribute("attributeName") <br>
+                    <b>Styles:</b> <br> 
+                    Get a style property: element.style.propertyName <br>
+                    Set a style property: element.style.propertyName = "value" <br>
+                    Remove a style property: element.style.removeProperty("propertyName")</p>
+                </div>
+            </div>
+          </div>
+    </main>
+</body>
+</html>
