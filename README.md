@@ -50,7 +50,7 @@
 
 ## 🎯 Milestone 4 : Hello Javascript
 
-<h6>17-21. Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
+<h6>17-21. Javascript : Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
 
 <h6>22. Javascript Simple Coding Problems - 1 </h6>
 <h6>23. Javascript Simple Coding Problems - 2 </h6>
@@ -58,10 +58,12 @@
 
 ## 🎯 Milestone 5 : Integrate Javascript (DOM)
 
-<h6>25-26. Explore the dedicated Javascript repository for DOM - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
+<h6>25-26. DOM : Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
 
 <h6>27. Create Payoo Mobile Bank with DOM </h6>
 
 <h6>28. Payoo Mobile Bank </h6>
 
 <h6>29. Assignment - 5. Donate Bangladesh - <a style="text-decoration:none" href="https://tamiim-iqbal.github.io/Donate-Bangladesh/">Live Page</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Donate-Bangladesh">Repository Link</a></h6>
+
+<h6>30. Recap JS : Explore the dedicated Javascript repository for  - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
