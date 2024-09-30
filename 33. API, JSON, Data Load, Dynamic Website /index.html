@@ -3,22 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Index</title>
 </head>
 <body>
     <button onclick="loadData()">Load Data</button>
     <button onclick="loadUsers()">Load Users</button>
     <button onclick="loadUsers2()">Load Users 2</button>
+    <br><br>
+    <!-- To check network for debug  -->
+    <button onclick="createPost()">Create Post</button>
+    <button onclick="deletePost()">Delete Post</button>
+    <button onclick="patchPost()">Patch Post</button>
+    <button onclick="updatePost()">Update Post</button>
 
     <div class="user-container">
         <ul id="user-list">
 
         </ul>
     </div>
-
-
-
-
 
     <script src="Javascript/fetch.js"></script>
     <script src="Javascript/app.js"></script>

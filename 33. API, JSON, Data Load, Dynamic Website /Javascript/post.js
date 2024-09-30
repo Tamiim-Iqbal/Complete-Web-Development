@@ -23,5 +23,4 @@ function displayPost(posts)
         postContainer.appendChild(div);
     }
 }
-
 loadPost();
