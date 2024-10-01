@@ -73,3 +73,5 @@
 <h6>30-32. Recap JS & ES6 : Explore the dedicated Javascript repository - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Javascript">Repository Link</a></h6>
 
 <h6>33. API, JSON, Data Load, Dynamic Website </h6>
+
+<h6>34. More About Javascript </h6>
