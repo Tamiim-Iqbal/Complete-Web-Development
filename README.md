@@ -77,3 +77,7 @@
 <h6>34. More About Javascript </h6>
 
 <h6>35. API Recap with PH Tube </h6>
+
+<h6>36. Assignment - 6. Peddy  - <a style="text-decoration:none" href="https://peddy.vercel.app">Live Site</a> - <a style="text-decoration:none" href="https://github.com/Tamiim-Iqbal/Peddy">Repository Link</a></h6></h6>
+
+<h6>36.5_ Local Storage </h6>
