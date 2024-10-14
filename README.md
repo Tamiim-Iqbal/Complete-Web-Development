@@ -1,5 +1,6 @@
 <h1 align="center"> Learn Web Development </h1>
 <br>
+<h3> <a style="text-decoration:none" href="https://tamimiqbal.notion.site/Short-Notes-11fbf6be67d48003acaef4e3a64e72ad?pvs=4" target="_blank">Notion - Short Notes</a> </h3>
 
 ## 🎯 Milestone 1 : HTML, CSS & Github As A Beginner 
 
