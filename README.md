@@ -82,4 +82,4 @@
 
 <h6>36.5_ Local Storage </h6>
 
-## 🎯 Milestone 7 : React.Js
+## 🎯 Milestone 7 : Introduction to React
