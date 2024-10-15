@@ -84,3 +84,5 @@
 <h6>36.5_ Local Storage </h6>
 
 ## 🎯 Milestone 7 : Introduction to React
+
+<h6>37. Javascript for React </h6>
