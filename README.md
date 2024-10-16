@@ -86,3 +86,5 @@
 ## 🎯 Milestone 7 : Introduction to React
 
 <h6>37. Javascript for React </h6>
+
+<h6>38. React Core Concept - 1 </h6>
