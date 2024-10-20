@@ -1,0 +1,15 @@
+.country{
+    border: 2px solid skyblue;
+    border-radius: 15px;
+    width: fit-content;
+    margin: 30px auto;
+}
+.country img{ 
+    margin: 0;
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+
+.visited{
+    background-color: aquamarine;
+}
