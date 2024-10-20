@@ -11,8 +11,11 @@ const Countries = () => {
 
     const handleVisitedCountry = (country) =>
     {
-        console.log('add : ');
-        console.log(country);
+        // console.log("Button Clicked");
+        // console.log(country);
+        // console.log(country.name.common);
+        const newVisitedCountry = [...visitedCountries, country]
+        setVisitedCountries(newVisitedCountry)
     }
 
     useEffect(() => {
@@ -26,9 +29,11 @@ const Countries = () => {
         <div>
             <h2>Countries : {countries.length}</h2>
             <div>
-                <h4>Visited Countries : </h4>
+                <h4>Visited Countries : {visitedCountries.length}</h4>
                 <ul>
-
+                    {
+                        visitedCountries.map(country => <p key={country.cca3}>{country.name.common}</p>)
+                    }
                 </ul>
             </div>
             <div className="country-container">
