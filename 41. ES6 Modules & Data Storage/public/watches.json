@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 8",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 6",
+      "price": 349
+    },
+    {
+      "id": 3,
+      "name": "Garmin Forerunner 265",
+      "price": 499
+    },
+    {
+      "id": 4,
+      "name": "Fitbit Versa 4",
+      "price": 179
+    },
+    {
+      "id": 5,
+      "name": "Huawei Watch GT 3",
+      "price": 199
+    }
+  ]
+  
