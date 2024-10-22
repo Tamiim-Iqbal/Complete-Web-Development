@@ -1,0 +1,28 @@
+.cart img{
+    width: 70px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%
+}
+.cart{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cart-container{
+    display:flex;
+    justify-content: center;
+}
+.btn-x{
+    margin-top: 10px;
+    padding: 0;
+    width: 30px;
+    border-color: gray;
+}
+
+.btn-x:hover{
+    border-color: skyblue;
+    color: red
+    
+}
