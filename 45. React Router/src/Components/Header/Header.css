@@ -1,0 +1,7 @@
+nav a{
+    margin-right: 50px;
+}
+nav a.active{
+    text-decoration: underline;
+    color: yellowgreen;
+}
