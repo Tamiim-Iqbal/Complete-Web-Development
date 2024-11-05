@@ -100,3 +100,4 @@
 
 <h6>44. Axios, Rechart, Components</h6>
 <h6>45. React Router</h6>
+<h6>46. React Core Concept - 3</h6>
