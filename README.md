@@ -101,3 +101,6 @@
 <h6>44. Axios, Rechart, Components</h6>
 <h6>45. React Router</h6>
 <h6>46. React Core Concept - 3</h6>
+<h6>47. Boi Poka</h6>
+<h6>48. Gadget Heaven</h6>
+<h6>49. Firebase Authentication</h6>
