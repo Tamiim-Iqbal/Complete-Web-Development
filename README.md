@@ -105,3 +105,4 @@
 <h6>48. Gadget Heaven</h6>
 <h6>49. Firebase Authentication</h6>
 <h6>50. Email Password Authentication</h6>
+<h6>51. React Auth & Private Route</h6>
